@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArjunKale21
+- 👋 Hi, I’m @arjunkale21
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on anything related Data Analytics
