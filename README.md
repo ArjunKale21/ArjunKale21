@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @arjunkale21
+- 👋 Hi, I’m Arjun Kale ( @arjunkale21 ) 
 - 👀 I’m interested in Data Science & Big Data
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on anything related Data Analytics & BIg Data
-- 📫 How to reach me arjunkale21@gmail.com
+- 📫 Reach me at arjunkale21@gmail.com
 
 <!---
 ArjunKale21/ArjunKale21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
