@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arjun Kale ( @arjunkale21 ) 
 - 👀 I’m interested in Data Science & Big Data
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on anything related Data Analytics & BIg Data
+- 💞️ I’m looking to collaborate on anything related Data Science & BIg Data
 - 📫 Reach me at arjunkale21@gmail.com
 
 <!---
